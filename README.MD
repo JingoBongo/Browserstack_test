@@ -1,4 +1,4 @@
-This is semi-short on how to use basic Browserstack features
+This is short example about how to use basic Browserstack features
 For testing I started by creating free account here: https://www.browserstack.com/
 
 Then, together with account you are provided with BS username and key (navigate to products -> browserstack automate -> Access Key)
