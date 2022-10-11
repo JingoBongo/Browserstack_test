@@ -61,7 +61,7 @@ Navigate to dashboard (link):
 There in bottom left corner you will see the build that you just executed. The logs, screenshots and even a video 
 (video used to be kept on their servers for 30 days if I remember it right) are provided for each test.
 
-You can try that with debug breakpoints in your code, open interactive sessions and just see how it goes yourself.
+You can try that with debug breakpoints in your code, open interactive sessions and just see how it goes by yourselves.
 
 What we used to use BS for is to use it together with Jenkins and Allure reports to execute all tests in parallel and see the 
 results in every possible way after the fact. We used to use configs for most BS settings (screen resolution, browser type and version,
