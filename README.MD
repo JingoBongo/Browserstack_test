@@ -4,7 +4,7 @@ For testing I started by creating free account here: https://www.browserstack.co
 Then, together with account you are provided with BS username and key (navigate to products -> browserstack automate -> Access Key)
 
 For entire thing to work you need to get a tunnel application.
-It is can be .exe / other types of executables for other OSes or a Java dependency
+It can be .exe / other types of executables for other OSes or a Java dependency
 
 .exe example: 
 
