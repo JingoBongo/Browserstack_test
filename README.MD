@@ -77,3 +77,7 @@ I hope you find this information useful!
 
 Note: free account is limited to 100 minutes of time on their machines spent
 
+More ready-to-use capabilities can be found here:
+
+    https://www.browserstack.com/automate/capabilities
+
